@@ -1,0 +1,6 @@
+name "otsu_experiment"
+description "Experiment with Otsu binarization"
+authors "Oleg Bakharew"
+copyright "Copyright © 2018, Oleg Bakharew"
+license "ESL 1.0"
+dependency "dlib" version="~>0.13.0"
